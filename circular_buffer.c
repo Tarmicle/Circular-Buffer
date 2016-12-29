@@ -3,6 +3,7 @@
 //
 
 
+#include <stdio.h>
 #include <stdlib.h>
 #include <memory.h>
 #include "circular_buffer.h"
